@@ -3,6 +3,7 @@ import nltk
 import csv
 import re
 import demoji
+from nltk.stem.wordnet import WordNetLemmatizer
 
 class preprocess():
     def __init__(self, df, contractions):
