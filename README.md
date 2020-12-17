@@ -1,5 +1,5 @@
 # COVID19_sentinentanalysissocialmedia
-COVID-19 Sentiment Analysis Social Media
+* The global pandemic that has raged the world for the past year is here to stay. In this repo, we try to predict the various sentiments associated with a particular tweet after training on readily available datasets, the links to which have been attached below.
 
 # References
 * SenWave: Monitoring the Global Sentiments under the COVID-19 Pandemic, Yang, Qiang and Alamro, Hind and Albaradei, Somayah and Salhi, Adil and Lv, Xiaoting and Ma, Changsheng and Alshehri, Manal and Jaber, Inji and Tifratene, Faroug and Wang, Wei and others https://arxiv.org/pdf/2006.10842.pdf
