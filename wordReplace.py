@@ -1,4 +1,8 @@
 def bruteGen(tweet):
+    tweet = tweet.replace("indiavscorona", "india versus coronavirus")
+    tweet = tweet.replace("outbreakindia", "outbreak india")
+    tweet = tweet.replace("real”", "real")
+    tweet = tweet.replace("mutra", "urine")
     tweet = tweet.replace("god’s", "gods")
     tweet = tweet.replace("fakenews", "fakenews")
     tweet = tweet.replace("lockdownextension", "lockdown extension")
