@@ -1,5 +1,7 @@
 # COVID19_sentinentanalysissocialmedia
 * The global pandemic that has raged the world for the past year is here to stay. In this repo, we try to predict the various sentiments associated with a particular tweet after training on readily available datasets, the links to which have been attached below.
+* The multi-label benchmark dataset can be retrieved from the **first** reference down below.
+
 
 ![alt text](https://github.com/sydney-machine-learning/COVID19_sentinentanalysis/blob/main/framework%20diagram.jpg)
 
